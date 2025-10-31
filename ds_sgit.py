@@ -4,7 +4,7 @@ import numpy as np
 import plotly.express as px
 from datetime import datetime, timedelta
 
-DATA_URL = r'Z:\8_COMPARTIDO\DIEGO\Script\Analisis sgit\sgit_catastro.csv'
+DATA_URL = r'C:\Users\Tom\Downloads\PROGRAM\Memos\sgit_catastro.csv'
 
 def load_data():
     try:
